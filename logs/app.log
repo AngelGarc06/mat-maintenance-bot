@@ -1,0 +1,110 @@
+{"ts": "2025-10-07T23:40:51.578Z", "lvl": "INFO", "msg": "Scheduler started", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-07T23:41:30.185Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-07T23:44:50.882Z", "lvl": "INFO", "msg": "Added job \"send_daily_report\" to job store \"default\"", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-07T23:44:52.628Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-07T23:44:58.946Z", "lvl": "INFO", "msg": "Added job \"send_daily_report\" to job store \"default\"", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-07T23:45:01.252Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-07T23:45:25.806Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-07T23:46:00.012Z", "lvl": "INFO", "msg": "Running job \"send_daily_report (trigger: cron[hour='18', minute='46'], next run at: 2025-10-08 18:46:00 -05)\" (scheduled at 2025-10-07 18:46:00-05:00)", "logger": "apscheduler.executors.default"}
+{"ts": "2025-10-07T23:46:01.515Z", "lvl": "INFO", "msg": "Job \"send_daily_report (trigger: cron[hour='18', minute='46'], next run at: 2025-10-08 18:46:00 -05)\" executed successfully", "logger": "apscheduler.executors.default"}
+{"ts": "2025-10-07T23:46:43.126Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-07T23:46:53.360Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-07T23:47:12.811Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-07T23:47:37.284Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-07T23:48:00.322Z", "lvl": "INFO", "msg": "Removed job rep_8261267641", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-07T23:48:02.269Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T00:05:30.510Z", "lvl": "INFO", "msg": "Scheduler has been shut down", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T01:06:36.545Z", "lvl": "INFO", "msg": "Scheduler started", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T02:07:55.017Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T02:22:05.403Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T02:22:17.588Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T02:25:17.362Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T02:25:26.051Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T02:25:37.092Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T02:26:03.073Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T02:26:30.007Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T02:32:45.039Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T02:33:11.339Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T02:33:20.027Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T02:33:29.128Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T02:33:42.321Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T02:33:51.861Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T02:34:00.938Z", "lvl": "INFO", "msg": "Added job \"send_daily_report\" to job store \"default\"", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T02:34:02.975Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T02:34:10.806Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T03:45:38.994Z", "lvl": "INFO", "msg": "Scheduler has been shut down", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T16:56:32.769Z", "lvl": "INFO", "msg": "Scheduler started", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T16:56:32.772Z", "lvl": "INFO", "msg": "Added job \"send_daily_report\" to job store \"default\"", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:03:03.775Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:05:44.213Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:05:57.844Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:06:50.143Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:06:57.994Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:07:08.192Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:07:17.696Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:07:40.869Z", "lvl": "INFO", "msg": "Added job \"send_daily_report\" to job store \"default\"", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:07:42.415Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:10:38.197Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:10:44.538Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:10:54.245Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:11:05.535Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:11:14.114Z", "lvl": "INFO", "msg": "Added job \"send_daily_report\" to job store \"default\"", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:11:16.096Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:11:21.715Z", "lvl": "INFO", "msg": "Added job \"send_daily_report\" to job store \"default\"", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:11:23.452Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:11:29.455Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:12:59.158Z", "lvl": "INFO", "msg": "Removed job rep_635118444", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:13:00.840Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:13:57.564Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:14:37.084Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:14:44.204Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:14:51.586Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:15:03.404Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:15:09.687Z", "lvl": "INFO", "msg": "Added job \"send_daily_report\" to job store \"default\"", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:15:11.389Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:15:17.639Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:15:22.352Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:15:26.818Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:17:07.381Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:17:13.262Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:17:20.727Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:17:31.896Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:17:39.027Z", "lvl": "INFO", "msg": "Added job \"send_daily_report\" to job store \"default\"", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:17:40.694Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:17:44.049Z", "lvl": "INFO", "msg": "Added job \"send_daily_report\" to job store \"default\"", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:17:45.780Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:17:54.266Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:17:57.927Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:19:07.021Z", "lvl": "INFO", "msg": "Removed job rep_635118444", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:19:13.601Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:19:54.120Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:19:59.327Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:20:07.754Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:20:19.182Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:20:27.127Z", "lvl": "INFO", "msg": "Added job \"send_daily_report\" to job store \"default\"", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:20:28.691Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:20:34.167Z", "lvl": "INFO", "msg": "Added job \"send_daily_report\" to job store \"default\"", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:20:36.552Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:20:40.821Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:20:47.972Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:21:19.135Z", "lvl": "INFO", "msg": "Removed job rep_635118444", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:21:22.081Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:21:54.350Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:22:00.791Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:22:08.364Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:22:19.121Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:22:25.117Z", "lvl": "INFO", "msg": "Added job \"send_daily_report\" to job store \"default\"", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:22:28.337Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:22:32.399Z", "lvl": "INFO", "msg": "Added job \"send_daily_report\" to job store \"default\"", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:22:39.499Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:22:44.416Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:22:51.312Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:23:04.445Z", "lvl": "INFO", "msg": "Removed job rep_635118444", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:23:06.337Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:25:41.981Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:27:28.453Z", "lvl": "INFO", "msg": "Scheduler has been shut down", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:28:06.408Z", "lvl": "INFO", "msg": "Scheduler started", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:28:06.414Z", "lvl": "INFO", "msg": "Added job \"send_daily_report\" to job store \"default\"", "logger": "apscheduler.scheduler"}
+{"ts": "2025-10-08T17:28:33.287Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:28:42.713Z", "lvl": "INFO", "msg": "http_request", "logger": "app"}
+{"ts": "2025-10-08T17:50:00.852Z", "lvl": "INFO", "msg": "Scheduler has been shut down", "logger": "apscheduler.scheduler"}
